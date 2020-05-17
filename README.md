@@ -3,4 +3,4 @@ In this project, the main input will be given by us in the form of a speech sign
 
 For Detailed Explanation visit: https://github.com/ShivamK30/WiFi-Controlled-Office-Automation/blob/master/WiFi%20Controlled%20Office%20Automation.pdf
 
-For Mobile Application apk Go To: https://github.com/ShivamK30/WiFi-Controlled-Office-Automation/blob/master/WiFi%20Controlled%20Office%20Automation.apk
+For Mobile Application apk Go To: https://github.com/ShivamK30/WiFi-Controlled-Office-Automation/blob/master/Mobile%20Application.apk
